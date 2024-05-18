@@ -116,7 +116,7 @@ form {
 }
 
 .fotos {
-    background: url(../1b-arquivos-necessarios-criando-topo/img/fundo-foto.png) no-repeat;
+    background: url(fundo-foto.png) no-repeat;
     width: 126px;
     height: 133px;
     align-content: center;
